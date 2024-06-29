@@ -1,5 +1,5 @@
 ******************************************************************************
-****  Caso práctico de optimización de flujos en un almacén de e-commerce ****
+****  Caso práctico de optimización de procesos en un almacén de e-commerce ****
 ******************************************************************************
 
 Solución de IA desarrollada mediante algoritmo de Q-Learning
