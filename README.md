@@ -20,4 +20,4 @@ El enfoque de la solución planteada está basada en la optimización de un alma
 <img width="1000" alt="Captura de pantalla 2024-06-28 a las 23 02 51" src="https://github.com/agarpu/Optimizacion-de-Procesos/assets/174133000/5c9cb683-9ce8-4b24-ae4e-46c7cd60ac54">
 
 ## Teoría matemática en la que se basa el algoritmo
-Para el desarrollo nos hemos basado en la ecuación de Bellman, que junto con la transformación de Markov y el uso de diferencias temporales nos ha permitido darle al robot el conocimiento suficiente para que aprenda que ruta debe usar en cada momento.
+Para el desarrollo nos hemos basado en la ecuación de Bellman, que junto con la transformación de Markov y el uso de diferencias temporales nos ha permitido darle al robot la inteligencia suficiente como que aprenda cual es mejor ruta en base a los parámetros de entrada elegidos.
